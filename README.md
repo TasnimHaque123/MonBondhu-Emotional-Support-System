@@ -20,24 +20,6 @@ MonBondhu is an **offline-first** mental health companion app that provides emot
 - **Guided Breathing Exercise**
 - **Bilingual** – Full English & Bangla support
 
-## 📱 Screenshots
-### Home Screen
-![Home]( )
-
-### AI Chat
-![Chat](screenshots/chat.png)
-
-### Mood Tracker
-![Mood](screenshots/mood.png)
-
-### Journal
-![Journal](screenshots/journal.png)
-
-### Emergency Support
-![Emergency](screenshots/emergency.png)
-
-### Doctor Directory
-![Doctors](screenshots/doctor.png)
 
 ## 🛠 Tech Stack
 - Flutter (Dart)
@@ -48,9 +30,21 @@ MonBondhu is an **offline-first** mental health companion app that provides emot
 ## 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/AHAAkash/MonBondhu-Mental-Health-App.git
+   git clone https://github.com/TasnimHaque123/MonBondhu-Emotional-Support-System.git
 
 ## 🎯 Target Audience
 1. People in Bangladesh are facing mental health challenges
 2. Students, professionals, and homemakers
-3. Anyone seeking private, stigma-free mental wellness supportP
+3. Anyone seeking private, stigma-free mental wellness support
+
+## Navigate to the project directory:
+
+cd MonBondhu-Emotional-Support-System
+
+## Install dependencies:
+
+flutter pub get
+
+## Run the application:
+
+flutter run
