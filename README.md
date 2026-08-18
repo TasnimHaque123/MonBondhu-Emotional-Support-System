@@ -1,69 +1,56 @@
-
-# MonBondhu – মনবন্ধু 🧠💚
+# MonBondhu – মনবন্ধু
 
 **Your Personal Mental Health Companion**  
 *A bilingual (English + Bangla) mental wellness app made for Bangladesh.*
 
----
+![MonBondhu](https://github.com/AHAAkash/MonBondhu-Mental-Health-App/blob/main/assets/images/logo.png)
 
-## 🌟 About the Project
-
-In Bangladesh, many individuals face mental health challenges but struggle to find private, accessible, and stigma-free support. **MonBondhu** is an offline-first mental health companion designed to empower proactive care through localized resources, self-reflection tools, and AI-driven insights.
-
----
+## 🌟 About the Project: People in Bangladesh facing mental health challenges
+MonBondhu is an **offline-first** mental health companion app that provides emotional support, mood tracking, journaling, AI-powered insights, and emergency resources.
 
 ## ✨ Key Features
-
-* **🤖 AI Chat Support:** Powered by Google Gemini with context-aware empathetic conversations.
-* **📊 Mood Tracker:** Easily log mood, sleep patterns, and stress levels.
-* **📔 Private Journal:** Write freely with integrated AI risk analysis.
-* **📅 AI Daily Routines:** Receive personalized habit suggestions tailored to your mood.
-* **🔮 Depression Risk Prediction:** Track weekly AI-driven wellness insights.
-* **🏆 Gamification:** Stay motivated by unlocking achievement badges.
-* **🚨 Emergency Help:** Quick access to Bangladeshi crisis helplines (*Kaan Pete Roi, 16789, 999*).
-* **🩺 Doctor Directory:** Verified list of mental health professionals in Bangladesh.
-* **🧘 Guided Breathing Exercise:** Simple tools for real-time anxiety relief.
-* **🌐 Bilingual Support:** Seamless experience in both English and Bangla.
-
----
+- **AI Chat Support** – Powered by Google Gemini (context-aware)
+- **Mood Tracker** – Track mood, sleep & stress
+- **Private Journal** – With AI risk analysis
+- **AI Daily Routines** – Personalized habit suggestions
+- **Depression Risk Prediction** – Weekly AI insights
+- **Gamification** – Unlock achievement badges
+- **Emergency Help** – Bangladeshi helplines (Kaan Pete Roi, 16789, 999)
+- **Doctor Directory** – Mental health professionals in Bangladesh
+- **Guided Breathing Exercise**
+- **Bilingual** – Full English & Bangla support
 
 ## 📱 Screenshots
+### Home Screen
+![Home]( )
 
-<div align="center">
-  <img src="assets/screenshots/home.png" width="30%" alt="Home Screen" />
-  <img src="assets/screenshots/ai_chat.png" width="30%" alt="AI Chat" />
-  <img src="assets/screenshots/mood_tracker.png" width="30%" alt="Mood Tracker" />
-</div>
+### AI Chat
+![Chat](screenshots/chat.png)
 
-<br />
+### Mood Tracker
+![Mood](screenshots/mood.png)
 
-<div align="center">
-  <img src="assets/screenshots/journal.png" width="30%" alt="Journal" />
-  <img src="assets/screenshots/emergency.png" width="30%" alt="Emergency Support" />
-  <img src="assets/screenshots/doctor_directory.png" width="30%" alt="Doctor Directory" />
-</div>
+### Journal
+![Journal](screenshots/journal.png)
 
----
+### Emergency Support
+![Emergency](screenshots/emergency.png)
+
+### Doctor Directory
+![Doctors](screenshots/doctor.png)
 
 ## 🛠 Tech Stack
-
-* **Frontend Framework:** Flutter (Dart)
-* **State Management & Local Storage:** Provider + SQLite
-* **AI Integration:** Google Gemini AI API
-* **Data Visualization:** `fl_chart`, `flutter_heatmap_calendar`
-
----
-
-## 🎯 Target Audience
-
-* Individuals in Bangladesh experiencing mental stress or isolation
-* Students, working professionals, and homemakers
-* Anyone seeking confidential, stigma-free emotional support
-
----
+- Flutter (Dart)
+- Provider + SQLite
+- Google Gemini AI
+- fl_chart, flutter_heatmap_calendar
 
 ## 🚀 How to Run Locally
-
-1. **Clone the repository:**
+1. Clone the repo:
    ```bash
-   git clone [https://github.com/TasnimHaque123/MonBondhu-Emotional-Support-System.git](https://github.com/TasnimHaque123/MonBondhu-Emotional-Support-System.git)
+   git clone https://github.com/AHAAkash/MonBondhu-Mental-Health-App.git
+
+## 🎯 Target Audience
+1. People in Bangladesh are facing mental health challenges
+2. Students, professionals, and homemakers
+3. Anyone seeking private, stigma-free mental wellness supportP
